@@ -1,0 +1,34 @@
+# Data Setting
+batch_size: 3
+data_dir: data/mixamo
+num_joints: 22
+dim_ori: 82
+dim_pad: 88
+padding: 3
+
+workers: 8
+
+# Network Setting
+network: HG2
+downsample: 1
+n_stack: 1
+activation: none
+normalize_heatmap: false
+loss_type: ce
+
+# Training Setting
+vis_overfit: false
+overfit: false
+nepoch: 10000
+reproduce: true
+## Learning Rate Setting
+lr: 3e-4
+lr_gamma: 1.0
+lr_step_size: 5
+## Logging Setting
+time: true
+save_epoch: 1
+vis_epoch: 1
+
+
+

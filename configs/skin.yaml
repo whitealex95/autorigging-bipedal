@@ -1,0 +1,31 @@
+batch_size: 6
+bindpose_loss_type: glob
+bm_rot_hp: 0
+bm_shape_hp: 0
+bm_trans_hp: 0
+channels: [64, 128, 256]
+data_dir: data/mixamo
+feature_size: 512
+global_feature_size: 512
+joint_loss_type: glob
+lr: 1e-4
+lr_gamma: 1.0
+lr_step_size: 5
+nepoch: 300
+num_joints: 22
+overfit: false
+k: -1
+reproduce: true
+rot_hp: 1
+save_step: 1
+skin_hp: 1
+trans_hp: 1e2
+use_bindpose: true
+use_bn: false
+use_gt_ibm: false
+vis_overfit: false
+vis_step: 1
+workers: 32
+network_type: mesh
+# network_type: full
+

@@ -1,0 +1,10 @@
+configargparse
+pyyaml
+open3d==0.9.0
+bvh
+tensorflow-gpu  # for tensorboard
+jupyter
+ipykernel
+ipyvolume
+tqdm
+trimesh
