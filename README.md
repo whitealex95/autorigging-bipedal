@@ -6,7 +6,7 @@ Pytorch code for the paper Auto-rigging 3D Bipedal Characters in Arbitrary Poses
 ## Prerequisites
 
 #### Download Mixamo Dataset
-- [Mixamo Dataset](https://drive.google.com/drive/folders/1P7imZPhsfVl_WYpIBEe4w2383pp-hCqn?usp=sharingg)
+- [Mixamo Dataset](https://drive.google.com/file/d/1d6o28Mu9yNaYCIWdZ-tiDDnTECnYDHzx/view?usp=sharing)
 
 
 #### Install Dependencies
