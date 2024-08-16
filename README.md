@@ -1,5 +1,5 @@
-# Auto-rigging 3D Bipedal Characters in Arbitrarily Poses	
-Pytorch code for the paper Auto-rigging 3D Bipedal Characters in Arbitrarily Poses
+# Auto-rigging 3D Bipedal Characters in Arbitrary Poses	
+Pytorch code for the paper Auto-rigging 3D Bipedal Characters in Arbitrary Poses
 
 **Jeonghwan Kim, Hyeontae Son, Jinseok Bae, Young Min Kim** 
 
